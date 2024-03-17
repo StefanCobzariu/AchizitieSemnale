@@ -1,0 +1,30 @@
+[OnFrecPanelCB]
+Class="Function"
+Prototype="int OnFrecPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\Acquisition.c:58:17"
+
+[FrequencyCB]
+Class="Function"
+Prototype="int FrequencyCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\Acquisition.c:80:17"
+
+[FREC_NEXT_CB]
+Class="Function"
+Prototype="int FREC_NEXT_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\Acquisition.c:132:17"
+
+[FREC_PREV_CB]
+Class="Function"
+Prototype="int FREC_PREV_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\Acquisition.c:154:17"
+
+[Filter_CB]
+Class="Function"
+Prototype="int Filter_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\Acquisition.c:178:17"
+
+[CB_SALVARE_IMAGINI]
+Class="Function"
+Prototype="int CB_SALVARE_IMAGINI(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\Acquisition.c:304:17"
+

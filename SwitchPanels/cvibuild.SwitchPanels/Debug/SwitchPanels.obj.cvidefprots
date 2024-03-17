@@ -1,0 +1,60 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:53:5"
+
+[OnWavePanelCB]
+Class="Function"
+Prototype="int OnWavePanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:81:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:89:17"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:112:17"
+
+[filtrare_mediere]
+Class="Function"
+Prototype="double *filtrare_mediere(int n);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:210:10"
+
+[filtrare_ordin1]
+Class="Function"
+Prototype="double *filtrare_ordin1(double alpha);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:231:9"
+
+[selectFilter]
+Class="Function"
+Prototype="int selectFilter(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:241:17"
+
+[APLICA_CB]
+Class="Function"
+Prototype="int APLICA_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:272:17"
+
+[saveImage]
+Class="Function"
+Prototype="void saveImage();"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:287:6"
+
+[NEXT_CB]
+Class="Function"
+Prototype="int NEXT_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:299:17"
+
+[PREV_CB]
+Class="Function"
+Prototype="int PREV_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:340:17"
+
+[ANVELOPA_CB]
+Class="Function"
+Prototype="int ANVELOPA_CB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\proiect APD\proiectAPD\SwitchPanels\SwitchPanels.c:390:17"
+
